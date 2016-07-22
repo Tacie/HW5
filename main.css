@@ -1,0 +1,59 @@
+.background{
+    width:100%;
+    height:600px;
+    background:url('../image/background.jpg');
+}
+.ddc{
+    padding-top: 100px;
+    padding: auto;
+    
+}
+
+.l{
+    width:250px;
+    height:330px;
+    background: white;
+    display:inline-block;
+    margin-left: 20px;    
+}
+
+.cw{
+    width: 250px;
+    height: 165px;
+    background: white;
+    color: darkgray;
+    
+}
+.cn{
+    width: 250px;
+    height: 165px;
+    background: grey;
+    color: white;
+    text-align: center;
+}
+.plan{
+    font-size: 20px;
+    text-align: center;
+    top: 12px;  
+}
+
+.free {
+    border-style: solid; 
+    border-radius: 5px;
+    padding: 8px;
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+    font-size: 34px;
+}
+li{
+    color: darkgray;
+    font-size: 15px;
+    list-style-type: none;
+    margin: 8px;
+    padding: 8px;
+    padding-right: 4px;  
+}
+
